@@ -57,7 +57,7 @@
         }
         .banner {
             text-align: center;
-            background: url('your-image-url.jpg') no-repeat 0 -100px;
+            background: url('nacho.jpg') no-repeat 0 -100px;
             color: white;
             padding: 100px 0;
         }
